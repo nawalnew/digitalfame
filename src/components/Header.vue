@@ -17,13 +17,5 @@ export default {
 </script>
 
 <style lang="scss">
-  .header {
-    display:flex;
-    align-items: center;
-    justify-content: space-between;
-    a {
-      color:inherit;
-      border-bottom: none;
-    }
-  }
+
 </style>
